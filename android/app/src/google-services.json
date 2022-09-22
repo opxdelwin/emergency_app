@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839423727389",
+    "project_id": "dynamic-art-353517",
+    "storage_bucket": "dynamic-art-353517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839423727389:android:bd6a3da5b09036921233f4",
+        "android_client_info": {
+          "package_name": "com.example.emergency_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839423727389-vu2u0tdnne1beb2kis2io94ljkqvngtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuLmbvqkhAfARIwZXBKJ0gGfO_VM1FuzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839423727389-vu2u0tdnne1beb2kis2io94ljkqvngtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
