@@ -6,11 +6,16 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The Emergency App - Internship
+Developed an Emergency App during the tenure of internship.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+• Motive: To provide immediate assistance / help in case of emergency by directly contacting local police station or hospital.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Why this works? This project severely reduces time lag that causes when one takes conventional way of contacting help, i.e. by calling 100.
+
+• It is decentralized, hence no to very minimal downtime.
+
+• Concept: Every PS / Hospital needs to register their local contact number, which will directly be shared with the person in distress. Nearby PCR vans are also notified in case of emergency.
+
+• Loopholes:
+-> Spam calls: temporary ban / revocation of service for user
